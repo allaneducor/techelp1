@@ -1,0 +1,72 @@
+body{
+
+    background-image: linear-gradient(90deg, rgb(93, 2, 93),rgb(255, 255, 255));
+}
+
+.cadastro{
+   position: absolute;
+   top: 50%;
+   margin-left: 50%;
+   margin-right: 50%;
+   transform: translate(-50%,-50%);
+   padding: 100px;   
+   background-color: rgb(139, 23, 197);
+   border-radius: 5px;
+   z-index: 0;
+
+}
+
+input{
+    padding: 10px;
+    margin: 3px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    border-radius: 5px;  
+    
+
+    
+}
+
+button{
+    background-color: dodgerblue;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    font-size: medium;
+    color: white;
+    border-radius: 5px;  
+
+    
+}
+
+button:hover{
+    background-color: darkturquoise
+    
+}
+
+img{
+    position: absolute;
+    top: 55%;
+    left: 100%;
+
+}
+
+.nome{
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    color:white;
+    z-index: 1;
+}
+a {
+    text-decoration: none;
+    color: dodgerblue;
+}
+a:hover {
+    color: darkturquoise;
+}
+
+.mensagem_erro {
+    color: rgba(255, 89, 38, 0.562);
+}

@@ -1,0 +1,20 @@
+h1{
+   margin-top: 10%;
+    text-align: center;
+}
+
+.container{
+    position: relative;
+    transform: translate(0%, 0%);
+}
+
+.inputs{
+
+    position: relative;
+    transform: translate(40%, 0%);
+
+}
+
+input{
+    margin: 5px;
+}

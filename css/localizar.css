@@ -1,0 +1,24 @@
+div{
+    position: relative;
+    
+
+}
+
+input{
+    margin: 5px;
+    border-radius: 10px;
+    padding: 15px;
+    width: 95%;
+    border-color: rgb(148, 89, 153);
+    outline: none;
+
+
+}
+
+select{
+    margin: 5px;
+    border-radius: 10px;
+    padding: 15px;
+    border-color: rgb(165, 0, 180);
+    outline: none;
+}

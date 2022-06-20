@@ -1,0 +1,67 @@
+
+.center {
+    display: flex;
+    flex-direction:column;
+    margin-left:auto;
+    padding: 8px;
+}
+
+.login{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img {
+    display: block;
+    width:20%;
+    border-radius: 20px;
+    margin:auto;
+    min-width:187px;
+}
+ 
+input{
+    padding: 7px;
+    margin: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    border-radius: 30px;
+    outline: 0;
+    border:2px solid rgb(205, 205, 205)
+}
+   
+button{
+
+    background-color: rgb(183, 82, 255);
+    transition: background 0.2s ease-in-out;
+    border: none;
+
+    color: white;
+    border:2px solid rgb(213, 154, 255);
+
+}
+    
+button:hover{
+    background-color: rgb(169, 53, 252);
+}
+
+.botao {
+    margin-right: 10%;
+    margin-left: auto;
+}
+
+h5 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    color: rgb(28, 207, 186);
+    transition: color 0.2s ease-in-out;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a {
+    text-decoration: none;
+}
+h5:hover {
+    color: rgb(19, 122, 110);
+}

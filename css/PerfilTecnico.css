@@ -1,0 +1,116 @@
+
+.Container{
+    display: block;
+    padding: 2%;
+
+
+}
+
+
+.fundo2{
+
+    display: block;
+    border-radius: 20px;
+    margin-top: -1%;
+
+    padding: 7%;
+    background-size: 100%;
+    background-image: url(wallpaperbetter\ \(1\).jpg);
+    border: solid red;
+
+
+    
+}
+
+.foto{
+
+    transform: translate(20%, 70%);
+    width: 150px;
+    height: 175px;
+    border-radius: 10%;
+
+
+}
+
+
+#foto{
+
+    display: block;
+
+    transform: translate(-3px, 10px);
+
+    margin-top: -10%;
+    width: 150px;
+    height: 175px;
+    border-radius: 10%;
+    padding: 2%;
+
+
+}
+
+
+
+#foto:hover{
+
+    background-color: aqua;
+
+}
+
+input[type='file']{
+    display: none;
+}
+
+.botao{
+    display: block;
+    padding: 1%;
+    
+
+    margin-top: 5%;
+    margin-left: 48%;
+    margin-right: 50%;
+    
+    margin-top: 0%;
+    width: 50%;
+    height: 100%;
+
+}
+
+button{
+    padding: 15px;
+    margin-left: 1%;
+    top: 20%;
+    width: 30%;
+    border-radius: 10px;
+    background-color: rgb(163, 73, 164);
+    border: none;
+    color: white;
+    font-size: 15px;
+
+}
+
+button:hover{
+    background-color: rgb(141, 72, 206);
+}
+
+
+
+h2{
+    text-align: 220px;
+}
+
+
+
+h1{
+    display: block;
+    margin-top: -2.2%;
+    color: white;
+    text-align: 220px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+
+
